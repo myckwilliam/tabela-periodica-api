@@ -1,0 +1,30 @@
+{
+  "name": "tabela-periodica-api",
+  "version": "0.0.1",
+  "description": "Uma API que retorna informações sobre elementos da tabela periódica",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/myckwilliam/tabela-periodica-api.git"
+  },
+  "keywords": [
+    "tabela",
+    "periodica",
+    "api",
+    "crud"
+  ],
+  "author": "Myck Santos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/myckwilliam/tabela-periodica-api/issues"
+  },
+  "homepage": "https://github.com/myckwilliam/tabela-periodica-api#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mongoose": "^6.5.1",
+    "nodemon": "^2.0.19"
+  }
+}
