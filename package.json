@@ -4,6 +4,7 @@
   "description": "Uma API que retorna informações sobre elementos da tabela periódica",
   "main": "index.js",
   "scripts": {
+    "start": "nodemon index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
