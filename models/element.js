@@ -11,3 +11,5 @@ const Element = mongoose.model("Element", {
   pontoFusao: String,
   pontoEbulicao: String,
 });
+
+module.exports = Element;
