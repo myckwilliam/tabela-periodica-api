@@ -6,6 +6,7 @@ const Element = mongoose.model("Element", {
   numeroAtomico: Number,
   massa: Number,
   protons: Number,
+  familia: String,
   eletrons: Number,
   distribuicaoEletronica: String,
   pontoFusao: String,
