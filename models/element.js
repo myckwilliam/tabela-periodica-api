@@ -8,7 +8,7 @@ const Element = mongoose.model("Element", {
   protons: Number,
   eletrons: Number,
   neutrons: Number,
-  familia: String,
+  grupo: String,
   distribuicaoEletronica: String,
   pontoFusao: String,
   pontoEbulicao: String,
